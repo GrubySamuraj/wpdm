@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: wpdm
 Version: 0.1.0
 Summary: Warsztat Praktyka Data Mining
-Author-email: Szymon Bobek <szymon.bobek@gmail.com>
+Author-email: Jakub Dragosz <jakub.dragosz@o2.pl>
 License: MIT License
         
         Copyright (c) 2024 Szymon Bobek
@@ -25,9 +25,8 @@ License: MIT License
         OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
         SOFTWARE.
         
-Project-URL: Homepage, https://github.com/sbobek/wpdm
+Project-URL: Homepage, https://github.com/GrubySamuraj/wpdm
 Project-URL: Documentation, https://wpdm.readthedocs.org
-Project-URL: Issues, https://github.com/sbobek/wpdm/issues
 Keywords: xai,time-series,explainability,model-agnostic,rule-based
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python

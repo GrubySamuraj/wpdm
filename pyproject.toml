@@ -3,11 +3,11 @@ requires      = ["setuptools>=61.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "wpdm"
+name = "wpdm3333"
 version = "0.1.0"
 description = "Warsztat Praktyka Data Mining"
 readme = "README.md"
-authors = [{ name = "Szymon Bobek", email = "szymon.bobek@gmail.com" }]
+authors = [{ name = "Jakub Dragosz", email = "jakub.dragosz@o2.pl" }]
 license = { file = "LICENSE" }
 classifiers = [
     "License :: OSI Approved :: MIT License",
@@ -28,6 +28,6 @@ requires-python = ">=3.8"
 gpu = ["torch>=2.0.1"]
 
 [project.urls]
-Homepage = "https://github.com/sbobek/wpdm"
+Homepage = "https://github.com/GrubySamuraj/wpdm"
 Documentation = "https://wpdm.readthedocs.org"
-Issues = "https://github.com/sbobek/wpdm/issues"
+#Issues = "https://github.com/sbobek/wpdm/issues"
